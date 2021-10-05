@@ -1,0 +1,64 @@
+header {
+	background-color: #a64253;
+	height: 110px;
+}
+
+.contenido{
+    background-color: #57886c;
+    margin-left: 270px;
+    margin-right: 20px;
+    height: 520px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 5px;
+
+}
+
+.conten{
+    background-color: #57886c;
+    margin-left: 270px;
+    margin-right: 20px;
+    height: 1130px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 5px;
+
+}
+
+.top-nav {
+	height: 25px;
+    font-weight: bold;
+    background-color: rgb(129, 166, 132););
+    text-align: right;
+}
+
+.top-nav a:link,
+.top-nav a:visited {
+    color: rgb(38, 38, 80);
+    text-decoration: none;
+    padding-top: 15px;
+    padding-right: 20px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+}
+
+.top-nav a:hover,
+.top-nav a:active,
+.top-nav a:focus {
+	color: rgb(255, 255, 255);
+    background-color: rgb(70, 96, 96);
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.button{
+	background-color: rgb(229,0,0);
+	text-decoration: none;
+	color: rgb(255, 255, 255);
+	padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
